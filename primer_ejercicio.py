@@ -13,5 +13,8 @@ if descuento>=800_000:#condicion o comparacion respuesta (True verdadero False F
         print("ud no recibira subsidio de transporte")
 else:
     print("descuento bajo")
+    
+print("cambio")
+a=0
 
 
